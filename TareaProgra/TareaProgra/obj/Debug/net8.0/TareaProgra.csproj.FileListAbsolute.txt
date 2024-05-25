@@ -1,0 +1,14 @@
+C:\Progra\TareaProgra\TareaProgra\bin\Debug\net8.0\TareaProgra.exe
+C:\Progra\TareaProgra\TareaProgra\bin\Debug\net8.0\TareaProgra.deps.json
+C:\Progra\TareaProgra\TareaProgra\bin\Debug\net8.0\TareaProgra.runtimeconfig.json
+C:\Progra\TareaProgra\TareaProgra\bin\Debug\net8.0\TareaProgra.dll
+C:\Progra\TareaProgra\TareaProgra\bin\Debug\net8.0\TareaProgra.pdb
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.AssemblyInfoInputs.cache
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.AssemblyInfo.cs
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.csproj.CoreCompileInputs.cache
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.dll
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\refint\TareaProgra.dll
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.pdb
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\TareaProgra.genruntimeconfig.cache
+C:\Progra\TareaProgra\TareaProgra\obj\Debug\net8.0\ref\TareaProgra.dll
